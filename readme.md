@@ -2,6 +2,10 @@
 
 A modern, animated landing page for a Japanese food delivery service, built with [Vite](https://vitejs.dev/) and vanilla JS.
 
+# visit
+[Sushiman](https://sushi-sheikh.netlify.app/)
+-- made by Md. Ahad Sheikh
+
 ## Features
 
 - Responsive, mobile-friendly layout
